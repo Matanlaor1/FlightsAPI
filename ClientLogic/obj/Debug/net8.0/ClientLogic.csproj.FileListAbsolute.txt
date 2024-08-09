@@ -1,0 +1,11 @@
+C:\Programming\Final Project\ClientLogic\bin\Debug\net8.0\ClientLogic.deps.json
+C:\Programming\Final Project\ClientLogic\bin\Debug\net8.0\ClientLogic.dll
+C:\Programming\Final Project\ClientLogic\bin\Debug\net8.0\ClientLogic.pdb
+C:\Programming\Final Project\ClientLogic\obj\Debug\net8.0\ClientLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Final Project\ClientLogic\obj\Debug\net8.0\ClientLogic.AssemblyInfoInputs.cache
+C:\Programming\Final Project\ClientLogic\obj\Debug\net8.0\ClientLogic.AssemblyInfo.cs
+C:\Programming\Final Project\ClientLogic\obj\Debug\net8.0\ClientLogic.csproj.CoreCompileInputs.cache
+C:\Programming\Final Project\ClientLogic\obj\Debug\net8.0\ClientLogic.dll
+C:\Programming\Final Project\ClientLogic\obj\Debug\net8.0\refint\ClientLogic.dll
+C:\Programming\Final Project\ClientLogic\obj\Debug\net8.0\ClientLogic.pdb
+C:\Programming\Final Project\ClientLogic\obj\Debug\net8.0\ref\ClientLogic.dll

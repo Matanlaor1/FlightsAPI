@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FlightsSimulator/1.0.0": {
+        "dependencies": {
+          "ClientLogic": "1.0.0"
+        },
+        "runtime": {
+          "FlightsSimulator.dll": {}
+        }
+      },
+      "ClientLogic/1.0.0": {
+        "runtime": {
+          "ClientLogic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FlightsSimulator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClientLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
